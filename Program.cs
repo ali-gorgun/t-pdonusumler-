@@ -28,7 +28,7 @@ namespace tipdonusumleri
 
 
 
-            //explıcıt Conversıon (bılıncsız donusum)
+            //explıcıt Conversıon (bılınclı donusum)
             Console.WriteLine("***** explicit Conversion *****");
             int x = 4;
             byte y = (byte)x;
